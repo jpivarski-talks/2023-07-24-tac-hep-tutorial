@@ -1,1 +1,1 @@
-# 2023-tac-hep-training
+# 2023-tac-hep-tutorial
